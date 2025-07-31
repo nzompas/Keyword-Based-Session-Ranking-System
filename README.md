@@ -1,1 +1,1 @@
-# Keyword-Based-Session-Ranking-System
+This Prolog program reads session data from a file, processes a list of keywords with associated weights, and calculates a relevance score for each session based on the presence of these keywords in session titles and topics. The sessions are then sorted by their relevance scores and displayed in descending order.
